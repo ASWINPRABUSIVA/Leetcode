@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2448-count-number-of-bad-pairs](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
