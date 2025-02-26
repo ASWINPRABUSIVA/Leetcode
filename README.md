@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2448-count-number-of-bad-pairs](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
