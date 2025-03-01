@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2448-count-number-of-bad-pairs](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
