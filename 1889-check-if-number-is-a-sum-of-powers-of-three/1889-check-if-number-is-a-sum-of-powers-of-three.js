@@ -1,0 +1,1 @@
+const checkPowersOfThree = (n) => !n.toString(3).includes('2');
