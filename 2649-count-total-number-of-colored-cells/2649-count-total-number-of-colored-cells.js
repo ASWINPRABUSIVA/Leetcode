@@ -1,0 +1,1 @@
+const coloredCells = n => n * n + --n * n;
