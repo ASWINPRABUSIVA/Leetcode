@@ -1,0 +1,1 @@
+const mostPoints = q => q.reduceRight((n, [x, k], i) => q[i] = Math.max(n, x + (q[i + k + 1] ?? 0)), 0);
