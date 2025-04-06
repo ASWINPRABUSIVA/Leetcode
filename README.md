@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1170-shortest-common-supersequence](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ASWINPRABUSIVA/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
